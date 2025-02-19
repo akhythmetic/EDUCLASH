@@ -6,7 +6,7 @@ Ce projet a pour objectif d'étudier les différences de performance entre les l
 
 ## Problématique
 
-**Quelle structure (publique ou privée sous contrat) présente les meilleures performances sur le territoire français métropolitain ?**
+**Quelle structure (lycée publique ou lycée privée sous contrat) présente les meilleures performances sur le territoire français métropolitain ?**
 
 ## Données et Méthodologie
 
@@ -20,17 +20,6 @@ Ce projet a pour objectif d'étudier les différences de performance entre les l
     - Classification
     - Prédiction
 
-## Installation et Usage
-
-1. Clonez ce repository sur votre machine :
-    ```bash
-    git clone https://github.com/ton-username/Educlash.git
-    ```
-2. Installez les dépendances nécessaires :
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Exécutez les notebooks pour explorer les données et tester les modèles.
 
 ## Résultats attendus
 
